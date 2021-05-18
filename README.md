@@ -1,4 +1,6 @@
 # portfolioHome
+![691FD5DA-B432-44F1-9F15-C930B1046879_4_5005_c](https://user-images.githubusercontent.com/80259925/118583181-9de3d700-b7cf-11eb-814c-ec6afef526b2.jpeg)
+
 안녕하세요? 개발자 지망생 윤영주의 포트폴리오 git-hub pages repository입니다.
 
 
