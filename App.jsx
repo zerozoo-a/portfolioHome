@@ -261,7 +261,7 @@ const App = () => {
             title={'윤영주의 포트폴리오입니다.'}
             describe={'지속적 성장과 성과로 보답하겠습니다.'}
             button={'FIND OUT MORE 👇'}
-            buttonLink={'/#About'}
+            buttonLink={'/portfolioHome/#About'}
           />
         </IntroStyle>
         {/* headerEnd */}
