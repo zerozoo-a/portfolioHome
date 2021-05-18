@@ -5,10 +5,12 @@
 
 
 ## Skill
-React.js+Styled components
+- React.js+Styled components
 
 
+## 개발 참여 인원
 
+ - 1인 개발
 
 ## Contents & Story
 
