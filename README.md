@@ -7,6 +7,25 @@
 ## Skill
 - React.js+Styled components
 
+## installation & environment
+package.json 파일을 다운받고 
+```
+$ npm i
+```
+를 통해 dependancy 환경을 구성함 
+
+> node@14.16.1
+> 
+> babel/core@7.13.15
+>
+> @pmmmwh/react-refresh-webpack-plugin@^0.4.3
+> 
+> eslint - airbnb
+> 
+> react-hooks
+> 
+> prettier
+> 
 
 ## 개발 참여 인원
 
