@@ -7,12 +7,8 @@
 ## Skill
 - React.js+Styled components
 
-## installation & environment
-package.json 파일을 다운받고 
-```
-$ npm i
-```
-를 통해 dependancy 환경을 구성함 
+## environment
+
 
 > node@14.16.1
 > 
