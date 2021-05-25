@@ -1,7 +1,8 @@
 import React from 'react';
 
 const Section = ({
-  title,
+  titleFirst,
+  titleSecond,
   describeTitle,
   describeDescribe,
   button,
@@ -14,7 +15,8 @@ const Section = ({
   return (
     <div>
       <div className='text'>
-        <h2>{title}</h2>
+        <h2>{titleFirst}</h2>
+        <div>{titleSecond}</div>
         <h4>{describeTitle}</h4>
         <p style={describeStyle}>{describeDescribe}</p>
 

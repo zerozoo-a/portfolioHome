@@ -2,7 +2,9 @@ import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 
 const FullIntroWrapperStyle = styled.div`
-  & .toggleOn {
+  margin: 0;
+  padding: 0;
+  & .toggleOff {
     position: absolute;
     visibility: hidden;
     width: 100vw;
@@ -26,7 +28,7 @@ const FullIntroWrapperStyle = styled.div`
       }
     }
   }
-  & .toggleOff {
+  & .toggleOn {
     visibility: visible;
     color: rgba(22, 34, 34, 1);
     position: absolute;
@@ -61,9 +63,9 @@ const FullIntro = () => {
   }, []);
   return (
     <FullIntroWrapperStyle>
-      <div className={fullIntroOn ? 'toggleOn' : 'toggleOff'}>
+      <div className={fullIntroOn ? 'toggleOff' : 'toggleOn'}>
         <h1>안녕하세요? 윤영주입니다.🙋🏻‍♂️</h1>
-        <h2>포트폴리오 사이트에 방문하신것을</h2>
+        <h2>제 포트폴리오 사이트에 방문하신걸 환영합니다!</h2>
         <h2>환영합니다.🎉</h2>
       </div>
     </FullIntroWrapperStyle>
